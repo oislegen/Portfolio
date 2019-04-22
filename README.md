@@ -1,2 +1,2 @@
 # Portfolio
-This repository contains a portfolio of my projects written in Python.
+This repository contains a portfolio of my projects written in Python, MATLAB and SQL.
